@@ -5,4 +5,4 @@ description: 'Welcome on my second website, this one is specially for me and my 
 featured_image: "/images/prequel.png"
 
 ---
-{{< figure src="/images//images/prequel.png" title="les préquels de ma vie en tant que webdesigner" >}}
+{{< figure src="/images/prequel.png" title="les préquels de ma vie en tant que webdesigner" >}}
